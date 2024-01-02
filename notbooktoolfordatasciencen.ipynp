@@ -1,0 +1,13 @@
+# Data Science Tools and Ecosystem
+# In this notebook,Tools for Data Science are summarized.
+# Objectives:
+# List popular languages that Data Scientists use. List commonly used libraries used by Data Scientists. Comment on Data Science tools.
+# Some of the popular languages that Data Scientists use are:
+# Python R SQL Java Julia Scala C/C++ JavaScript
+# Some of the commonly used libraries used by Data Scientists include:
+# TensorFlow. NumPy. SciPy. Pandas. Matplotlib. Keras. SciKit-Learn. PyTorch. Scrapy. BeautifulSoup. LightGBM. ELI5. Theano. NuPIC. Ramp. Pipenv. Bob. PyBrain. Caffe2. Chainer.
+# Data Science Tools:
+# Data Science Tools SAS. It is one of those data science tools which are specifically designed for statistical operation Apache Spark BigML
+
+code = compile("5 + 4", "<string>", "eval")
+eval(code)
